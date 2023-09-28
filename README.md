@@ -1,5 +1,9 @@
 # Rust_Game_Blender
 Rust Game Dev.
+<p align="center">
+  <img width=150px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/b96e6f3b-f5ba-4b3d-8f13-501b8d7b9870" />
+</p>
+
 
 
 # 무료블렌더 Blender (3D캐릭터 만들때 필요하다. )
