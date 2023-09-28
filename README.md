@@ -94,4 +94,5 @@ $ tree
 11 directories, 25 files
 ```
 
+- ogg 소리 파일 공부 https://cloudinary.com/guides/video-formats/ogg-format-an-in-depth-look
 
