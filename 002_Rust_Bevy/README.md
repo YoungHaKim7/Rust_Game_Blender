@@ -19,4 +19,8 @@ https://youtu.be/zvLWibkWcVg?si=ibJVzarMVenqYEWP
 
 https://youtu.be/GwlZ5EPu8l0?si=cPHJUupEsMuYDDfU
 
+# Bevy Plugin Showcases | Logic Projects
+
+https://youtube.com/playlist?list=PLT_D88-MTFOP4QE1D0eUKlPpUi35uVvuy&si=AfjBDeqcKtvHiTR0
+
 <hr>
