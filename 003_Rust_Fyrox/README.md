@@ -15,9 +15,61 @@ https://fyrox.rs/
 - eBook
   - https://fyrox-book.github.io/
 
+# rust_fyrox_project만들기 & init & fyrox 파일 구조
+
+```
+// install 
+cargo install fyrox-template
+
+// init 2d    이름이 여기를 수정해 주자 "fyrox_test"
+fyrox-template init --name fyrox_test --style 2d
+
+// init 3d    이름이 여기를 수정해 주자 "my_game"
+fyrox-template init --name my_game --style 3d
+
+
+
+cd fyrox_test
+
+// fyrox editor 실행
+cargo run --package editor --release
+```
+
+- file 내가 수정해야할곳
+  - ```game/src/lib.rs``` 여기에서 수정해 주면 된다.
+
+```
+/my_3d_fyrox_game
+ ├──🔒  Cargo.lock
+▶├──􀌜  Cargo.toml
+ ├──􀀂  data …
+ ├──􀀂  editor
+ │  ├──􀌜  Cargo.toml
+ │  └──􀀂  src …
+ ├──􀀂  executor
+ │  ├──􀌜  Cargo.toml
+ │  └──􀀂  src …
+ ├──􀀂  executor-android
+ │  ├──􀌜  Cargo.toml
+ │  ├──􀇱  README.md
+ │  └──􀀂  src …
+ ├──􀀂  executor-wasm
+ │  ├──􀌜  Cargo.toml
+ │  ├──􀀀  index.html
+ │  ├──􀀀  main.js
+ │  └──􀇱  3 unlisted
+└──􀀂  game
+    ├──􀌜  game/Cargo.toml
+    └──􀀂  game/src
+       └──􀋒  game/src/lib.rs
+```
+
+
+
 # fyrox3d예전에 한 3d game
 
 https://github.com/YoungHaKim7/fyrox3dgame_rpg
 
 - 한글러스트Rust강의_046⭐️Rust_3d_RGP_game만들기3D_Game RG3D_Fyrox - a modern Rust Game engine2 #rustlang #fyrox
   - https://youtu.be/-GDO5ykuFoo?si=8De8yhjIY3ZcBwvd
+
