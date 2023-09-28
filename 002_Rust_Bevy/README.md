@@ -2,4 +2,9 @@
 
 - Making an FPS game with Bevy and Rust!
   - https://youtu.be/06M2lT_I11c?si=ACv_8jUDmrWv2iXE
- 
+
+# Should you use heron or bevy rapier?
+
+- heron vs bevy rapier??
+
+https://youtu.be/zvLWibkWcVg?si=ibJVzarMVenqYEWP
