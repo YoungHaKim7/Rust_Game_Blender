@@ -18,3 +18,6 @@ https://fyrox.rs/
 # fyrox3d예전에 한 3d game
 
 https://github.com/YoungHaKim7/fyrox3dgame_rpg
+
+- 한글러스트Rust강의_046⭐️Rust_3d_RGP_game만들기3D_Game RG3D_Fyrox - a modern Rust Game engine2 #rustlang #fyrox
+  - https://youtu.be/-GDO5ykuFoo?si=8De8yhjIY3ZcBwvd
