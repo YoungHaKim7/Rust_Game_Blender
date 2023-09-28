@@ -1,3 +1,13 @@
+Rust Game Dev.(Rust, Rust_Bevy, Rust_Fyrox, Blender)
+<p align="center">
+  <img width=120px src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" hspace="20"/>
+  <img width=200px src="https://bevyengine.org/assets/bevy_logo_dark.svg" hspace="20" />
+  <br><img width=120px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/b96e6f3b-f5ba-4b3d-8f13-501b8d7b9870" hspace="20"/>
+</p>
+
+
+<hr>
+
 # Rust + Blender 로 게임 만드는 Demo영상
 
 - Making an FPS game with Bevy and Rust!
