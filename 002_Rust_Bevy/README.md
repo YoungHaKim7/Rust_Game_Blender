@@ -1,4 +1,4 @@
-Rust Game Dev.(Rust, Rust_Bevy, Rust_Fyrox, Blender)
+# Rust Game Dev.(Rust, Rust_Bevy, Blender)
 <p align="center">
   <img width=120px src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" hspace="20"/>
   <img width=200px src="https://bevyengine.org/assets/bevy_logo_dark.svg" hspace="20" />
