@@ -1,8 +1,5 @@
-# Rust_Game_Blender
-Rust Game Dev.
-
-
 # 무료블렌더 Blender (3D캐릭터 만들때 필요하다. )
+
 - blender.org - Home of the Blender project - Free and Open 3D ...
 blender.org
 https://www.blender.org
@@ -25,9 +22,3 @@ https://www.blender.org/
       - https://youtu.be/OKmfqixt_l4?si=D0hS_NbyB4rzsnbh
     - 진정한 리얼 ㅎRealistic Environment With Blender 3D
       - https://youtu.be/v3NrfXaJW6c?si=wID5-qnvxXF4uvWN
-
-# Rust + Blender 로 게임 만드는 Demo영상
-- Making an FPS game with Bevy and Rust!
-  - https://youtu.be/06M2lT_I11c?si=ACv_8jUDmrWv2iXE
-
-<hr>
