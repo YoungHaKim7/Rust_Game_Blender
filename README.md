@@ -9,6 +9,14 @@ Rust Game Dev.(Rust, Rust_Bevy, Rust_Fyrox, Blender)
 
 <hr>
 
+- Rust https://www.rust-lang.org/
+- Rust_Bevy https://bevyengine.org/
+- Rust_Fyrox https://fyrox.rs/
+
+- Blender https://www.blender.org/
+
+<hr>
+
 # Royalty-Free Video Games Music
 
 https://www.epidemicsound.com/
