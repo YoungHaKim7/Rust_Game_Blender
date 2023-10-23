@@ -22,3 +22,5 @@ https://www.blender.org/
       - https://youtu.be/OKmfqixt_l4?si=D0hS_NbyB4rzsnbh
     - 진정한 리얼 ㅎRealistic Environment With Blender 3D
       - https://youtu.be/v3NrfXaJW6c?si=wID5-qnvxXF4uvWN
+    - Cascadeur - Is This the Future of Animation
+      - https://youtu.be/JrddPZmUHvE?si=li_DlfdOdBAmYwCv
