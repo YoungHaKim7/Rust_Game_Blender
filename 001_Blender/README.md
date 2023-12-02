@@ -28,5 +28,7 @@ https://www.blender.org/
       -  https://youtu.be/Pi5hsB5jDLc?si=MBGcoovbOX8r0pAC
     - [블렌더 강좌] 모델링 따라하기 : 공중부양 시계 만들기 종합 | Bravo Your Life.THE100_더백
       - https://youtu.be/E0Ijw1tsv7I?si=I81Sx3sP5hW4-9KK
+        - 더백클래스(블렌더) 시리즈 Bravo Your Life.THE100_더백
+          - https://youtube.com/playlist?list=PLTmUI8HoTmE74gPdS8WumeDKhGLFHwxV7&si=Km8Ot2IHPcYybZm7
 
 
