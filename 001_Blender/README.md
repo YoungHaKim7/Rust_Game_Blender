@@ -30,5 +30,8 @@ https://www.blender.org/
       - https://youtu.be/E0Ijw1tsv7I?si=I81Sx3sP5hW4-9KK
         - 더백클래스(블렌더) 시리즈 Bravo Your Life.THE100_더백
           - https://youtube.com/playlist?list=PLTmUI8HoTmE74gPdS8WumeDKhGLFHwxV7&si=Km8Ot2IHPcYybZm7
+    - 블렌더4.0_blender maker_ ep2 art _이제는 한글로 배운다_영문은 어렵다? | 오리듀_oridoou
+      - https://youtu.be/-fn_E8o59-Q?si=MjVX2Nsb4732JWsP
+
 
 
