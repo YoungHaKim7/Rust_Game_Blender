@@ -26,4 +26,7 @@ https://www.blender.org/
       - https://youtu.be/JrddPZmUHvE?si=li_DlfdOdBAmYwCv
     - 블렌더 캐릭터 모델링 - Yuyuki part04(Blender character modeling - Yuyuki part04) | Na Merge
       -  https://youtu.be/Pi5hsB5jDLc?si=MBGcoovbOX8r0pAC
+    - [블렌더 강좌] 모델링 따라하기 : 공중부양 시계 만들기 종합 | Bravo Your Life.THE100_더백
+      - https://youtu.be/E0Ijw1tsv7I?si=I81Sx3sP5hW4-9KK
+
 
