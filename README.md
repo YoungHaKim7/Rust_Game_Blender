@@ -5,7 +5,7 @@ Rust Game Dev.(Rust, Rust_Bevy, Rust_Fyrox, Blender)
   <img width=200px src="https://bevyengine.org/assets/bevy_logo_dark.svg" hspace="20" />
   <img width=120px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/6f1c2f3c-25e0-4191-8510-b0e7b26c6ea3" hspace="20"/>
   <br><img width=120px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/b96e6f3b-f5ba-4b3d-8f13-501b8d7b9870" hspace="20"/>
-  <img width=100px src="https://godotengine.org/assets/logo_dark.svg" hspace="3"/>
+  <img width=180px src="https://godotengine.org/assets/logo_dark.svg" hspace="3"/>
 </p>
 
 <hr>
@@ -17,7 +17,7 @@ Rust Game Dev.(Rust, Rust_Bevy, Rust_Fyrox, Blender)
 - Blender <img width=40px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/b96e6f3b-f5ba-4b3d-8f13-501b8d7b9870" hspace="3"/>https://www.blender.org/
 
 - godot-rust https://godot-rust.github.io/book/index.html
-  - <img width=55px src="https://godotengine.org/assets/logo_dark.svg" hspace="3"/> https://godotengine.org/
+  - <img width=95px src="https://godotengine.org/assets/logo_dark.svg" hspace="3"/> https://godotengine.org/
 
 <hr>
 
