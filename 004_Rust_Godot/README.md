@@ -1,5 +1,5 @@
-<p>
-  <img width=95px src="https://godotengine.org/assets/logo_dark.svg" hspace="3"/>
+<p align="center">
+  <img width=250px src="https://godotengine.org/assets/logo_dark.svg" hspace="3"/>godot-rust
 </p>
 
 <hr>
