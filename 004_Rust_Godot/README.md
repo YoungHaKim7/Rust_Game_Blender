@@ -1,5 +1,8 @@
 <p align="center">
   <img width=250px src="https://godotengine.org/assets/logo_dark.svg" hspace="3"/>godot-rust
+  <style>
+    background:black;
+  </style>
 </p>
 
 <hr>
