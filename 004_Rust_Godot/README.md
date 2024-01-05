@@ -1,7 +1,13 @@
 <p align="center">
   <img width=250px src="https://godotengine.org/assets/logo_dark.svg" hspace="3"/>godot-rust
+  - ![#3d5d91](https://godotengine.org/assets/logo_dark.svg) `#3d5d91`
+
   <style>
-    background:black;
+    img {
+      background:black;
+      
+    }
+    
   </style>
 </p>
 
