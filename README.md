@@ -17,6 +17,7 @@ Rust Game Dev.(Rust, Rust_Bevy, Rust_Fyrox, Blender)
 - Blender <img width=40px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/b96e6f3b-f5ba-4b3d-8f13-501b8d7b9870" hspace="3"/>https://www.blender.org/
 
 - godot-rust https://godot-rust.github.io/book/index.html
+  - https://github.com/godot-rust/gdext
   - <img width=95px src="https://godotengine.org/assets/logo_dark.svg" hspace="3"/> https://godotengine.org/
 
 <hr>
