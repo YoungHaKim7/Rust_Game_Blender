@@ -46,3 +46,12 @@ https://youtu.be/GwlZ5EPu8l0?si=cPHJUupEsMuYDDfU
 https://youtube.com/playlist?list=PLT_D88-MTFOP4QE1D0eUKlPpUi35uVvuy&si=AfjBDeqcKtvHiTR0
 
 <hr>
+
+Bevy 최신 소식
+
+- https://bevyengine.org/news/bevy-0-12/
+
+- Bevy 0.12 Transmission Demo | Marco Buono
+  - https://youtu.be/t1XdxZKZ-us?si=dAWiLk0JiIUdimI0
+ 
+<hr>
