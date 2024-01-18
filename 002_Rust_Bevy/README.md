@@ -20,11 +20,16 @@
 
 <hr>
 
-# Bevy Game 최신 뉴스
+# Bevy GameEngine 최신 소식
 
 - Posted on November 04, 2023 by Bevy Contributors(23.11.04)
   - https://bevyengine.org/news/bevy-0-12/
 
+- Bevy 0.12 Transmission Demo | Marco Buono
+  - https://youtu.be/t1XdxZKZ-us?si=dAWiLk0JiIUdimI0
+
+<br>
+ 
 <hr>
 
 # Rust + Blender 로 게임 만드는 Demo영상
@@ -54,11 +59,5 @@ https://youtube.com/playlist?list=PLT_D88-MTFOP4QE1D0eUKlPpUi35uVvuy&si=AfjBDeqc
 
 <hr>
 
-Bevy 최신 소식
 
-- https://bevyengine.org/news/bevy-0-12/
-
-- Bevy 0.12 Transmission Demo | Marco Buono
-  - https://youtu.be/t1XdxZKZ-us?si=dAWiLk0JiIUdimI0
- 
 <hr>
