@@ -28,6 +28,15 @@ https://www.epidemicsound.com/
 
 <hr>
 
+<br>
+
+# 내가 공부하려고 정리 중.
+
+- Rust_Game_Dev 모아보기
+  - https://youtube.com/playlist?list=PLcMveqN_07mY5cEcTgC4ICHnla6LSVtnh&si=aKiXhqr61OsLYAfH
+
+<hr>
+
 
 # 무료블렌더 Blender (3D캐릭터 만들때 필요하다. )
 - blender.org - Home of the Blender project - Free and Open 3D ...
