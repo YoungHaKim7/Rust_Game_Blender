@@ -22,7 +22,8 @@
 
 # Bevy Game 최신 뉴스
 
-- https://bevyengine.org/news/bevy-0-12/
+- Posted on November 04, 2023 by Bevy Contributors(23.11.04)
+  - https://bevyengine.org/news/bevy-0-12/
 
 <hr>
 
