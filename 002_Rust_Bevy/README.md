@@ -20,6 +20,12 @@
 
 <hr>
 
+# Bevy Game 최신 뉴스
+
+- https://bevyengine.org/news/bevy-0-12/
+
+<hr>
+
 # Rust + Blender 로 게임 만드는 Demo영상
 
 - Making an FPS game with Bevy and Rust!
