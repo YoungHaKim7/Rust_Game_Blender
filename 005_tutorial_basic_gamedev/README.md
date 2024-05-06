@@ -1,3 +1,6 @@
+# 오일러 공식 기초
+- https://youtu.be/mvmuCPvRoWQ?si=Ya5-Gj7fkbPcNHWU
+
 # Visualizing quaternions
 - An explorable video series
   - https://eater.net/quaternions
