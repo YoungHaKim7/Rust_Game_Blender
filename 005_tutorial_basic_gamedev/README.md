@@ -1,3 +1,7 @@
+# Visualizing quaternions
+- An explorable video series
+  - https://eater.net/quaternions
+
 # 쿼터니언과 3D 회전을 대화식으로 설명합니다.| 3Blue1Brown
 
 - https://youtu.be/zjMuIxRvygQ?si=Rf7vz9_Aanjrmtg3
