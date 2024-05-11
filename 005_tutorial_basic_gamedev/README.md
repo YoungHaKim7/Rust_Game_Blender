@@ -13,6 +13,9 @@
 
 - https://youtu.be/d4EgbgTm0Bg?si=yTm8-X8ARBHF8cTU
 
+# How to Use Quaternions | Positive Altitude 
+- https://youtu.be/bKd2lPjl92c?si=TY63T2Imwiv_PpMo
+
 <hr>
 
 # Introduction to Shaders: Learn the Basics! | Barney Codes
