@@ -16,6 +16,10 @@
 # How to Use Quaternions | Positive Altitude 
 - https://youtu.be/bKd2lPjl92c?si=TY63T2Imwiv_PpMo
 
+# How quaternions produce 3D rotation | PenguinMaths
+
+- https://youtu.be/jTgdKoQv738?si=JHzW2yiIQdK9ME4V
+
 <hr>
 
 # Introduction to Shaders: Learn the Basics! | Barney Codes
