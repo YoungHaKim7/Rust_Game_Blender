@@ -38,6 +38,9 @@
 - Making an FPS game with Bevy and Rust!
   - https://youtu.be/06M2lT_I11c?si=ACv_8jUDmrWv2iXE
 
+- Bevy Top Down Shooter Tutorial With Massive Enemy Hordes | Bones AI
+  - https://youtu.be/p8d8TKo59LU?si=pbbyj9sUOmSmWgNu
+
 <br>
 
 <hr>
