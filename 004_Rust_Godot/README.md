@@ -17,3 +17,9 @@
 - https://github.com/godot-rust/gdext
 
 - https://mastodon.gamedev.place/@GodotRust
+
+# Godot Tutorial
+- Learn to Create a 3D RPG Game with Godot
+  - https://www.freecodecamp.org/news/learn-to-create-a-3d-rpg-game-with-godot/
+    - Godot GameDev Tutorial – 3D RPG Game | freeCodeCamp.org
+      - https://youtu.be/ouqgx1qKSdY?si=Qwe7kexRclEYQ8FM
