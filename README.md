@@ -163,3 +163,12 @@ You can also get it on Steam. If you do, make sure to use Steam's betas feature 
 # 러스트 게임 개발자(240717기준) 최근까지 살아남은 몇 안되는 Rust Dev.존경스럽다.[[🔝]](#link)
 - Game dev in Rust - some notes on the mess
   - https://users.rust-lang.org/t/game-dev-in-rust-some-notes-on-the-mess/104939
+
+
+# 러스트 동시실행에서 무너진 개발자(거의 다 왔는데 바보...)[[🔝]](#link)
+- **[GN⁺: Rust로 게임 개발을 한 3년 후에 떠나며](<https://news.hada.io/topic?id=14521&utm_source=discord&utm_medium=bot&utm_campaign=1480>)**
+- Rust에 익숙해지면 모든 문제가 사라질 것이라는 주장에 대해  
+  - Rust에 익숙해져도 근본적인 문제는 사라지지 않음  
+  - 게임은 복잡한 상태 머신이고 요구사항이 계속 바뀌기 때문에 Rust의 정적이고 과도하게 검사하는 특성과 맞지 않음  
+  - 코드를 계속 리팩토링해야 하는 문제는 self-inflicted임  
+- ...
