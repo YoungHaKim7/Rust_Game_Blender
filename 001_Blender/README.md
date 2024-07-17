@@ -1,6 +1,9 @@
 # Blender Cheat Sheets(9min31sec)
 - https://youtu.be/B0J27sf9N1Y?si=oLug9wsqjn7ilOfb
 
+- LMB means click or press the Left-mouse button.
+- RMB means click or press the Right-mouse button.
+
 # General(most window types)
 
 |||
