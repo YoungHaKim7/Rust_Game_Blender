@@ -199,6 +199,84 @@
 |-|-|
 |Unwrap |U|
 |Mark Seam|Ctrl + E|
+|||
+
+<hr>
+
+# UV Editor
+
+|||
+|-|-|
+|Select Island| L (under cursor) or <br> Ctrl + L|
+|Stitch|V|
+|Weld|Shift + W|
+|Pin|P|
+|Unpin|Alt + P|
+|Select Pinned|Shift + P|
+|||
+
+<hr>
+
+# Image Editor (View)
+
+|||
+|-|-|
+|Properties, Scopes,<br>Slots and Metadata|N|
+|View at 100%|1(Numpad)|
+|View to Fit|Shift + Home|
+|Next Render Slot |J|
+|Previous Render<br>Slot|Alt + J|
+|Select Render Slot |1-8|
+|Save Image|Alt + S|
+|Save Image As|Shift + S|
+|||
+
+<hr>
+
+# Image Editor (Paint)
+
+|||
+|-|-|
+|Create New Blank<br>Image|Alt + N|
+|Open Image|Alt + O|
+|Brush Properties|N|
+|Brush Size|F|
+|Brush Strength|Shift + F|
+|Sample Color|S|
+|Flip Color|X|
+|||
+
+<hr>
+
+# Nodes(Materials / Compositor)
+
+|||
+|-|-|
+|Cut Connection|Ctrl + RMB(drag)|
+|Reroute<br>Connection|Shift + RMB(drag)|
+|Connect selected|F|
+|Properties|N|
+|Delete selected but<br>maintain<br>connection|Ctrl + X|
+|Duplicate selected<br>and maintain<br>connection|Ctrl + Shift + D|
+|Mute Selected |M|
+|Group Selected |Ctrl + G|
+|Ungroup Selected|Ctrl + Alt + G|
+|Edit Group (Toggle)|TAB|
+|Frame Selected<br>Nodes|Ctrl + J|
+|Show/Hide inactive<br>node slots|Ctrl + H|
+|||
+
+<hr>
+
+
+# Compositor
+
+|||
+|-|-|
+|Move backdrop|Alt + MMB|
+|Zoom backdrop|V/Alt + V|
+|Properties and<br>performance|N|
+|||
 
 <hr>
 
