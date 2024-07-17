@@ -39,7 +39,7 @@ Rust Game Dev.(Rust, Rust_Bevy, Rust_Fyrox, Blender)
 
 <hr>
 
-- [러스트로 오래 살아남은 case VS. 러스트하다가 포기한 케이스](#러스트-게임-개발자240717기준-최근까지-살아남은-몇-안되는-rust-dev존경스럽다)
+- [러스트로 오래 살아남은 case VS. 러스트하다가 포기한 케이스](#러스트해서-살아남은-case)
 
 <hr>
 
