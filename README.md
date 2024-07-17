@@ -126,3 +126,16 @@ $ tree
 
 - ogg 소리 파일 공부 https://cloudinary.com/guides/video-formats/ogg-format-an-in-depth-look
 
+# Blender최신 소식
+
+# (240717)IT IS TIME! Blender 4.2, the next LTS release, has been released!
+  - https://www.blender.org/download/releases/4-2/
+
+You can also get it on Steam. If you do, make sure to use Steam's betas feature to pick 4.2 (or any other version you want!) so you don't get accidentally upgraded to 4.3 or so on later.
+
+- Showcase Reel: https://www.youtube.com/watch?v=jTVG5kdHRQQ
+- Video Recap: https://www.youtube.com/watch?v=iwpBgtKilvw
+
+----
+
+- Release notes: https://developer.blender.org/docs/release_notes/4.2/
