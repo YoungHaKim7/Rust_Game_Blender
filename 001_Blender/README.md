@@ -33,5 +33,8 @@ https://www.blender.org/
     - 블렌더4.0_blender maker_ ep2 art _이제는 한글로 배운다_영문은 어렵다? | 오리듀_oridoou
       - https://youtu.be/-fn_E8o59-Q?si=MjVX2Nsb4732JWsP
 
+# 블랜더 기초 Tutorial
+- Blender 4.0 Beginner Donut Tutorial (NEW) | Blender Guru
+  - https://youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z&si=NBbNiy41wX0Ee7_4
 
 
