@@ -53,6 +53,8 @@ https://www.epidemicsound.com/
 
 - Rust_Game_Dev 모아보기
   - https://youtube.com/playlist?list=PLcMveqN_07mY5cEcTgC4ICHnla6LSVtnh&si=aKiXhqr61OsLYAfH
+    - Bevy정리하는 Github
+      - https://github.com/YoungHaKim7/Rust_Bevy_Game_Engine
 
 <hr>
 
