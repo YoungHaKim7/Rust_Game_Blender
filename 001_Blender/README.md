@@ -74,13 +74,42 @@
 |Mode Pie Menu|Ctrl + TAB|
 |Edit/Object mode<br>toggle|TAB|
 |Mirror|Ctrl+ M then X/Y/Z<br>(or MMB(drag)|
-|||
-|||
-|||
-|||
-|||
+|Set Parent|Ctrl + P|
+|Clear Parent| Alt + P|
+|Toggle Snapping |Shift + TAB|
+|Clear Location |Alt + G|
+|Clear Rotation|Alt + R|
+|Clear Scale |Alt + S|
+|Apply Location/<br>Scale / Rotation|Ctrl + A|
+|Join Selected<br>Objects|Ctrl + J|
+|Copy Attributes to<br>New Objects|Ctrl+L|
+|Add Subdivision <br>level|Ctrl + 0/1/2/3/4/5|
+|Mask view to region <br> Clear mask|Alt + B|
+|Center 3D cursor|Shift + C|
+|Move active object<br>to Collection|M|
+|Move Active <br>Camera to view|Ctrl + Alt + NumPad 0|
+|Set as Active Camera|Ctrl + Numpad 0|
 |||
 
+<hr>
+
+# General Selection(most window types)
+
+|||
+|-|-|
+|Select | LMB|
+|Select All| A|
+|Deselect All|Alt + A|
+|Marquee Box<br>Select|B|
+|Circle Select|C|
+|Lasso Select|Ctrl + RMB|
+|Invert Selection|Ctrl + i|
+|Select Linked|Shift + L |
+|Select Similar|Shift + G|
+|Select specific<br>object|Alt + LMB|
+|||
+
+<hr>
 
 <hr>
 
