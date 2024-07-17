@@ -1,5 +1,5 @@
 # link
-- [Blender Cheat Sheets)](#blender-cheat-sheets9min31sec)
+- [Blender Cheat Sheets](#blender-cheat-sheets9min31sec)
   - [generalmost-window-types](#generalmost-window-types)
   - [navigation3d-viewport](#navigation3d-viewport)
   - [view-3d-viewport](#view-3d-viewport)
