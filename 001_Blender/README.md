@@ -43,3 +43,7 @@ https://www.blender.org/
   - https://youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z&si=NBbNiy41wX0Ee7_4
 
 
+# Blender(Character modeling for beginners)
+- Character modeling for beginners - Blender | Joey Carlino
+  - https://youtu.be/O6HQhs-gk50?si=eF18Tir-JpvNfsE0
+
