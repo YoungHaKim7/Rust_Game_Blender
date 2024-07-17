@@ -133,6 +133,75 @@
 
 <hr>
 
+# Selection(Edit Mode)
+
+|||
+|-|-|
+|Select Connected<br>Mesh|Ctrl + L|
+|Select Connected <br> Mesh Under Cursor|L|
+|Select Edge/Face<br>Loop|Alt + LMB|
+|Select Edge Ring|Ctrl + Alt + RMB|
+|Vertex Select Mode|1|
+|Edge Select Mod|2|
+|Face Select Mode|3|
+|Mirror current<br>selection|Ctrl + Shift + M|
+|Select More/Less|Ctrl +/-|
+|Edge Crease|Shift + E|
+|||
+
+<hr>
+
+# Curve Editing(Edit Mode)
+
+|||
+|-|-|
+|Add new handle|E or <br> Ctrl + RMB|
+|Change ahndle type| V|
+|Delete but maintain<br>connection|Ctrl + X|
+|Close curve|Alt + C|
+|Tilt|Ctrl + T|
+|Clear Tilt|Alt + T|
+|||
+
+<hr>
+
+# Modeling(Edit Mode)
+
+|||
+|-|-|
+|Extrude|E|
+|Inset|i|
+|Bevel|Ctrl + B|
+|Bevel Vertices|Ctrl + Shift + B|
+|Loop cut|Ctrl + R|
+|Vertex/Edge Slide|G,G|
+|Knife|K|
+|Fill Face|F|
+|Shear|Ctrl + Shift + Alt + S|
+|Bend|Shift + W|
+|Split|Y|
+|Rip|V|
+|Rip Fill|Alt +V|
+|Merge|M|
+|Recalculate<br>Normals|Shift + N|
+|Flip Normals|Ctrl + Shift + N|
+|Proportional Editing<br> On/Off|O|
+|Proportional Falloff<br> Type|Shift + O|
+|Separate selection<br>to new object|P|
+|||
+
+
+<hr>
+
+# Texturing(Edit Mode)
+
+|||
+|-|-|
+|Unwrap |U|
+|Mark Seam|Ctrl + E|
+
+<hr>
+
 # 무료블렌더 Blender (3D캐릭터 만들때 필요하다. )
 
 - blender.org - Home of the Blender project - Free and Open 3D ...
