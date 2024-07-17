@@ -8,3 +8,5 @@
 
 - 블랜더 자료 많은 채널
   - https://www.youtube.com/@SouthernShotty
+    - (모아보기) Blender 3D Tutorials | SouthernShotty
+      - https://youtube.com/playlist?list=PL08jQWquPV8UMGiG0BB8nta3KUVMa6gWk&si=U5PzdhiTkkKmdC4o
