@@ -1,11 +1,35 @@
-# Blender Cheat Sheets(9min31sec)
+# link
+- [Blender Cheat Sheets)](#blender-cheat-sheets9min31sec)
+  - [generalmost-window-types](#generalmost-window-types)
+  - [navigation3d-viewport](#navigation3d-viewport)
+  - [view-3d-viewport](#view-3d-viewport)
+  - [object-mode-3d-viewport](#object-mode-3d-viewport)
+  - [general-selectionmost-window-types](#general-selectionmost-window-types)
+  - [shading-3d-viewport](#shading-3d-viewport)
+  - [selectionedit-mode](#selectionedit-mode)
+  - [curve-editingedit-mode](#curve-editingedit-mode)
+  - [texturingedit-mode](#texturingedit-mode)
+  - [uv-editor](#uv-editor)
+  - [image-editor-view](#image-editor-view)
+  - [nodesmaterials--compositor](#nodesmaterials--compositor)
+  - [#compositor](#compositor)
+
+<hr>
+
+- [무료블렌더-blender-3d캐릭터-만들때-필요하다-](#무료블렌더-blender-3d캐릭터-만들때-필요하다-)
+  - [블랜더-기초-tutorial](#블랜더-기초-tutorial)
+  - [blendercharacter-modeling-for-beginners](#blendercharacter-modeling-for-beginners)
+
+<hr>
+
+# Blender Cheat Sheets(9min31sec)[[🔝]](#link)
 - https://youtu.be/B0J27sf9N1Y?si=oLug9wsqjn7ilOfb
 
 - `LMB` means click or press the Left-mouse button.
 - `RMB` means click or press the Right-mouse button.
    - https://learn.foundry.com/katana/3.0/Content/ug/appendix_hotkeys/hotkeys.html
     
-# General(most window types)
+# General(most window types)[[🔝]](#link)
 
 |||
 |-|-|
@@ -35,7 +59,7 @@
 
 <hr>
 
-# Navigation(3D viewport)
+# Navigation(3D viewport)[[🔝]](#link)
 
 |||
 |-|-|
@@ -47,7 +71,7 @@
 
 <hr>
 
-# View (3D viewport)
+# View (3D viewport)[[🔝]](#link)
 
 - Numpad views:
   
@@ -71,7 +95,7 @@
 
 <hr>
 
-# Object Mode (3D viewport)
+# Object Mode (3D viewport)[[🔝]](#link)
 
 |||
 |-|-|
@@ -97,7 +121,7 @@
 
 <hr>
 
-# General Selection(most window types)
+# General Selection(most window types)[[🔝]](#link)
 
 |||
 |-|-|
@@ -115,7 +139,7 @@
 
 <hr>
 
-# Shading (3D viewport)
+# Shading (3D viewport)[[🔝]](#link)
 
 |||
 |-|-|
@@ -125,7 +149,7 @@
 
 <hr>
 
-# Pie Menus
+# Pie Menus[[🔝]](#link)
 
 |||
 |-|-|
@@ -137,7 +161,7 @@
 
 <hr>
 
-# Selection(Edit Mode)
+# Selection(Edit Mode)[[🔝]](#link)
 
 |||
 |-|-|
@@ -155,7 +179,7 @@
 
 <hr>
 
-# Curve Editing(Edit Mode)
+# Curve Editing(Edit Mode)[[🔝]](#link)
 
 |||
 |-|-|
@@ -169,7 +193,7 @@
 
 <hr>
 
-# Modeling(Edit Mode)
+# Modeling(Edit Mode)[[🔝]](#link)
 
 |||
 |-|-|
@@ -197,7 +221,7 @@
 
 <hr>
 
-# Texturing(Edit Mode)
+# Texturing(Edit Mode)[[🔝]](#link)
 
 |||
 |-|-|
@@ -207,7 +231,7 @@
 
 <hr>
 
-# UV Editor
+# UV Editor[[🔝]](#link)
 
 |||
 |-|-|
@@ -221,7 +245,7 @@
 
 <hr>
 
-# Image Editor (View)
+# Image Editor (View)[[🔝]](#link)
 
 |||
 |-|-|
@@ -237,7 +261,7 @@
 
 <hr>
 
-# Image Editor (Paint)
+# Image Editor (Paint)[[🔝]](#link)
 
 |||
 |-|-|
@@ -252,7 +276,7 @@
 
 <hr>
 
-# Nodes(Materials / Compositor)
+# Nodes(Materials / Compositor)[[🔝]](#link)
 
 |||
 |-|-|
@@ -273,7 +297,7 @@
 <hr>
 
 
-# Compositor
+# Compositor[[🔝]](#link)
 
 |||
 |-|-|
@@ -284,7 +308,7 @@
 
 <hr>
 
-# 무료블렌더 Blender (3D캐릭터 만들때 필요하다. )
+# 무료블렌더 Blender (3D캐릭터 만들때 필요하다. )[[🔝]](#link)
 
 - blender.org - Home of the Blender project - Free and Open 3D ...
 blender.org
@@ -319,7 +343,7 @@ https://www.blender.org/
     - 블렌더4.0_blender maker_ ep2 art _이제는 한글로 배운다_영문은 어렵다? | 오리듀_oridoou
       - https://youtu.be/-fn_E8o59-Q?si=MjVX2Nsb4732JWsP
 
-# 블랜더 기초 Tutorial
+# 블랜더 기초 Tutorial[[🔝]](#link)
 - Blender 4.0 Beginner Donut Tutorial (NEW) | Blender Guru
   - https://youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z&si=NBbNiy41wX0Ee7_4
 
@@ -327,7 +351,7 @@ https://www.blender.org/
   -  https://youtu.be/uOmYInaX-wE?si=UdWj4Ong0U3G89Pt
 
 
-# Blender(Character modeling for beginners)
+# Blender(Character modeling for beginners)[[🔝]](#link)
 - Character modeling for beginners - Blender | Joey Carlino
   - https://youtu.be/O6HQhs-gk50?si=eF18Tir-JpvNfsE0
 
