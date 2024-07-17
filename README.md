@@ -159,3 +159,7 @@ You can also get it on Steam. If you do, make sure to use Steam's betas feature 
 ----
 
 - Release notes: https://developer.blender.org/docs/release_notes/4.2/
+
+# 러스트 게임 개발자(240717기준) 최근까지 살아남은 몇 안되는 Rust Dev.존경스럽다.[[🔝]](#link)
+- Game dev in Rust - some notes on the mess
+  - https://users.rust-lang.org/t/game-dev-in-rust-some-notes-on-the-mess/104939
