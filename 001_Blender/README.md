@@ -7,9 +7,28 @@
 |-|-|
 |Toolbar|T|
 |Properties|N|
+|Add Object/Node| Shift + A<br> ⇧ + A|
+|Delete| X or Delete|
+|Search|F3|
+|Move|G|
+|Scale|S|
+|Rotate|R|
+|Rotate along axis|R then X/Y/Z|
+|Rotate along local axis|R then X, X/Y, Y/Z, Z|
+|Trackball Rotate|R, R|
+|Precise movement|Shift(hold)|
+|Incremental movement|Ctrl(hold)|
+|Duplicate|Shift + D|
+|Duplicate Linked|Alt + D|
+|Hide|H|
+|Unhide All|Alt + H|
+|Hide all Except Selected|Shift +H|
+|Annotate|D(hold) + LMB(drag)|
+|Erase Annotation|D(hold) +RMB(drag)|
+|Click favs menu|Q|
 |||
-|||
-|||
+
+
 
 
 <hr>
