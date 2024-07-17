@@ -35,6 +35,10 @@ Rust Game Dev.(Rust, Rust_Bevy, Rust_Fyrox, Blender)
 
 <hr>
 
+- [요즘은Bevy정리중.Blender랑 통합해서.(내가-공부하려고-정리-중..)](#내가-공부하려고-정리-중)
+
+<hr>
+
 # Royalty-Free Video Games Music[[🔝]](#link)
 
 https://www.epidemicsound.com/
