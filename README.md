@@ -183,3 +183,8 @@ You can also get it on Steam. If you do, make sure to use Steam's betas feature 
 - ...
 
 <hr>
+
+# 유니코드 검색하기 굿(Unicode Search)[[🔝]](#link)
+- https://unicodelookup.com/
+
+<hr>
