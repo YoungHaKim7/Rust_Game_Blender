@@ -41,7 +41,29 @@
 |Fly|Shift + ~|
 |||
 
+<hr>
 
+# View (3D viewport)
+
+- Numpad views:
+  
+||||
+|-|-|-|
+||/<br>Isolate||
+|7<br>Top|8<br>Up|9<br>Opposite|
+|4<br>Left|5<br>Persp/Ortho|6<br>Right|
+|1<br>Front|2<br>Down|3<br>Side|
+||0<br>Camera|.<br>Focus|
+||||
+
+
+|||
+|-|-|
+|View Pie Menu|-|
+|Fast View Switch|Alt + MMB(drag)|
+|Show All Objects|Home|
+|Focus to region| Shift+ B|
+|||
 
 <hr>
 
