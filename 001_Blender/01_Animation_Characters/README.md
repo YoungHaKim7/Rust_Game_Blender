@@ -1,3 +1,8 @@
+# (내가 좋아하는 징크스 만들어 보기 !)Blender 3.0 - Jinx modeling - Arcane | FlyCat
+- https://youtu.be/k9jHNW56HXs?si=LBpfGHgMmD82wXbo
+
+<hr>
+
 # 블렌더 리깅-동적으로 parent 변경하기(Blender rigging-dynamically changing the parent) | Na Merge
 - https://youtu.be/zCb0m7-ZBbQ?si=z269sp7Aqj7JZwBG
 
