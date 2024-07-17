@@ -1,3 +1,8 @@
+# Blender Cheat Sheets(9min31sec)
+- https://youtu.be/B0J27sf9N1Y?si=oLug9wsqjn7ilOfb
+
+<hr>
+
 # 무료블렌더 Blender (3D캐릭터 만들때 필요하다. )
 
 - blender.org - Home of the Blender project - Free and Open 3D ...
