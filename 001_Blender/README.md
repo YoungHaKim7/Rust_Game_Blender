@@ -12,7 +12,7 @@
   - [uv-editor](#uv-editor)
   - [image-editor-view](#image-editor-view)
   - [nodesmaterials--compositor](#nodesmaterials--compositor)
-  - [#compositor](#compositor)
+  - [compositor](#compositor)
 
 <hr>
 
