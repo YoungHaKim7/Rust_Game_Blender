@@ -1,6 +1,17 @@
 # Blender Cheat Sheets(9min31sec)
 - https://youtu.be/B0J27sf9N1Y?si=oLug9wsqjn7ilOfb
 
+# General(most window types)
+
+|||
+|-|-|
+|Toolbar|T|
+|Properties|N|
+|||
+|||
+|||
+
+
 <hr>
 
 # 무료블렌더 Blender (3D캐릭터 만들때 필요하다. )
