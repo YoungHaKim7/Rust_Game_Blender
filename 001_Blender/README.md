@@ -111,6 +111,26 @@
 
 <hr>
 
+# Shading (3D viewport)
+
+|||
+|-|-|
+|Shading Pie Menu|Z|
+|Toggle X-Ray|Alt + Z|
+|||
+
+<hr>
+
+# Pie Menus
+
+|||
+|-|-|
+|Pivot point pie<br>menu|.|
+|Snap pie menu|Shift + S|
+|Orientation pie<br>menu|,|
+|||
+
+
 <hr>
 
 # 무료블렌더 Blender (3D캐릭터 만들때 필요하다. )
