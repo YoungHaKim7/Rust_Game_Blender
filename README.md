@@ -24,13 +24,24 @@ Rust Game Dev.(Rust, Rust_Bevy, Rust_Fyrox, Blender)
 
 <hr>
 
-# Royalty-Free Video Games Music
+- [게임엔진-비교-굿](#게임엔진-비교-굿)
+- [royalty-free-video-games-music](#royalty-free-video-games-music)
+
+- [Assets구성하는 기본틀_rust-게임개발-기본-구성](#rust-게임개발-기본-구성)
+
+- [#무료블렌더-blender-3d캐릭터-만들때-필요하다-](#무료블렌더-blender-3d캐릭터-만들때-필요하다-)
+  - (rust--blender-로-게임-만드는-demo영상)(#rust--blender-로-게임-만드는-demo영상)
+    - [blender최신-소식](#blender최신-소식)
+
+<hr>
+
+# Royalty-Free Video Games Music[[🔝]](#link)
 
 https://www.epidemicsound.com/
 
 <hr>
 
-# 게임엔진 비교 굿
+# 게임엔진 비교 굿[[🔝]](#link)
 
 - https://www.dragonflydb.io/game-dev/engines/rust
 
@@ -38,14 +49,14 @@ https://www.epidemicsound.com/
 
 <br>
 
-# 내가 공부하려고 정리 중.
+# 내가 공부하려고 정리 중.[[🔝]](#link)
 
 - Rust_Game_Dev 모아보기
   - https://youtube.com/playlist?list=PLcMveqN_07mY5cEcTgC4ICHnla6LSVtnh&si=aKiXhqr61OsLYAfH
 
 <hr>
 
-# Rust 게임개발 기본 구성 
+# Rust 게임개발 기본 구성[[🔝]](#link)
 
 - 외국 사람의 Github 참고 
 
@@ -99,7 +110,7 @@ $ tree
 
 <hr>
 
-# 무료블렌더 Blender (3D캐릭터 만들때 필요하다. )
+# 무료블렌더 Blender (3D캐릭터 만들때 필요하다. )[[🔝]](#link)
 - blender.org - Home of the Blender project - Free and Open 3D ...
 blender.org
 https://www.blender.org
@@ -123,13 +134,13 @@ https://www.blender.org/
     - 진정한 리얼 ㅎRealistic Environment With Blender 3D
       - https://youtu.be/v3NrfXaJW6c?si=wID5-qnvxXF4uvWN
 
-# Rust + Blender 로 게임 만드는 Demo영상
+# Rust + Blender 로 게임 만드는 Demo영상[[🔝]](#link)
 - Making an FPS game with Bevy and Rust!
   - https://youtu.be/06M2lT_I11c?si=ACv_8jUDmrWv2iXE
 
 <hr>
 
-# Blender최신 소식
+# Blender최신 소식[[🔝]](#link)
 
 # (240717)IT IS TIME! Blender 4.2, the next LTS release, has been released!
   - https://www.blender.org/download/releases/4-2/
