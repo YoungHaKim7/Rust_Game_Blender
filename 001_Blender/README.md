@@ -29,6 +29,18 @@
 |||
 
 
+<hr>
+
+# Navigation(3D viewport)
+
+|||
+|-|-|
+|Orbit|MMB|
+|Pan|Shift + MMB|
+|Zoom In/Out|Scroll or Ctrl + MMB|
+|Fly|Shift + ~|
+|||
+
 
 
 <hr>
