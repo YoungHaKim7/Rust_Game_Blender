@@ -323,6 +323,9 @@ https://www.blender.org/
 - Blender 4.0 Beginner Donut Tutorial (NEW) | Blender Guru
   - https://youtube.com/playlist?list=PLjEaoINr3zgEPv5y--4MKpciLaoQYZB1Z&si=NBbNiy41wX0Ee7_4
 
+- Getting started - Blender for complete beginners | Joey Carlino
+  -  https://youtu.be/uOmYInaX-wE?si=UdWj4Ong0U3G89Pt
+
 
 # Blender(Character modeling for beginners)
 - Character modeling for beginners - Blender | Joey Carlino
