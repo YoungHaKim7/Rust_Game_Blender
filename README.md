@@ -30,7 +30,7 @@ Rust Game Dev.(Rust, Rust_Bevy, Rust_Fyrox, Blender)
 - [Assets구성하는 기본틀_rust-게임개발-기본-구성](#rust-게임개발-기본-구성)
 
 - [#무료블렌더-blender-3d캐릭터-만들때-필요하다-](#무료블렌더-blender-3d캐릭터-만들때-필요하다-)
-  - (rust--blender-로-게임-만드는-demo영상)(#rust--blender-로-게임-만드는-demo영상)
+  - [rust--blender-로-게임-만드는-demo영상](#rust--blender-로-게임-만드는-demo영상)
     - [blender최신-소식](#blender최신-소식)
 
 <hr>
