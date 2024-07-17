@@ -67,6 +67,23 @@
 
 <hr>
 
+# Object Mode (3D viewport)
+
+|||
+|-|-|
+|Mode Pie Menu|Ctrl + TAB|
+|Edit/Object mode<br>toggle|TAB|
+|Mirror|Ctrl+ M then X/Y/Z<br>(or MMB(drag)|
+|||
+|||
+|||
+|||
+|||
+|||
+
+
+<hr>
+
 # 무료블렌더 Blender (3D캐릭터 만들때 필요하다. )
 
 - blender.org - Home of the Blender project - Free and Open 3D ...
