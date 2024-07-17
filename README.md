@@ -10,6 +10,8 @@ Rust Game Dev.(Rust, Rust_Bevy, Rust_Fyrox, Blender)
 
 <hr>
 
+# link
+
 - Rust <img width=35px src="https://user-images.githubusercontent.com/67513038/213436632-820a1675-98d9-4626-979d-be63c60cdcb7.png" hspace="3"/> https://www.rust-lang.org/
 - Rust_Bevy <img width=80px src="https://bevyengine.org/assets/bevy_logo_dark.svg" hspace="3"/> https://bevyengine.org/
 - Rust_Fyrox <img width=35px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/6f1c2f3c-25e0-4191-8510-b0e7b26c6ea3" hspace="3"/> https://fyrox.rs/
@@ -40,37 +42,6 @@ https://www.epidemicsound.com/
 
 - Rust_Game_Dev 모아보기
   - https://youtube.com/playlist?list=PLcMveqN_07mY5cEcTgC4ICHnla6LSVtnh&si=aKiXhqr61OsLYAfH
-
-<hr>
-
-
-# 무료블렌더 Blender (3D캐릭터 만들때 필요하다. )
-- blender.org - Home of the Blender project - Free and Open 3D ...
-blender.org
-https://www.blender.org
-Blender is a public project hosted on blender.org, licensed as GNU GPL, owned by its contributors. For that reason Blender is Free and Open Source software, ...
-https://www.blender.org/
-
-- 3D 왕초보 블렌더 #01 일단 한번 열어서 움직여 보자 | Blender 튜토리얼
-  - https://youtu.be/qlaJbG1vVHc?si=kTQDJ-iLQDLhDn_g
-- 블렌더 완전 기초 강의 3.3 LTS
-  - https://youtube.com/playlist?list=PLqf2JB4ViQO5JhlXD9bXDerr-w3frv6Np&si=fZbaeAwKbozZrl40
-
-- R3F(React Three Fiber)를 이용한 3D 웹 개발 : 10. 3D 모델 / 애니메이션
-  - https://youtu.be/S7qWQ1li32o?si=KqMTvoF_RuqL9Kp4
-
-- 블렌더로 직접 만드는 영상 I animated this in 18 days... in Blender
-  - https://youtu.be/tCTkkHGRpNk?si=O8qUVhc5qq2_CVkx
-    - The Best Way To Create Nature In 3D (진짜 잔디 같다. ㅎ)
-      - https://youtu.be/7Um3FaXJixg?si=Bvt5wN-Ye2JaHu2U
-    - 도시 만드는 영상Creating The Last Of Us Environment In Blender 3.4
-      - https://youtu.be/OKmfqixt_l4?si=D0hS_NbyB4rzsnbh
-    - 진정한 리얼 ㅎRealistic Environment With Blender 3D
-      - https://youtu.be/v3NrfXaJW6c?si=wID5-qnvxXF4uvWN
-
-# Rust + Blender 로 게임 만드는 Demo영상
-- Making an FPS game with Bevy and Rust!
-  - https://youtu.be/06M2lT_I11c?si=ACv_8jUDmrWv2iXE
 
 <hr>
 
@@ -125,6 +96,38 @@ $ tree
 ```
 
 - ogg 소리 파일 공부 https://cloudinary.com/guides/video-formats/ogg-format-an-in-depth-look
+
+<hr>
+
+# 무료블렌더 Blender (3D캐릭터 만들때 필요하다. )
+- blender.org - Home of the Blender project - Free and Open 3D ...
+blender.org
+https://www.blender.org
+Blender is a public project hosted on blender.org, licensed as GNU GPL, owned by its contributors. For that reason Blender is Free and Open Source software, ...
+https://www.blender.org/
+
+- 3D 왕초보 블렌더 #01 일단 한번 열어서 움직여 보자 | Blender 튜토리얼
+  - https://youtu.be/qlaJbG1vVHc?si=kTQDJ-iLQDLhDn_g
+- 블렌더 완전 기초 강의 3.3 LTS
+  - https://youtube.com/playlist?list=PLqf2JB4ViQO5JhlXD9bXDerr-w3frv6Np&si=fZbaeAwKbozZrl40
+
+- R3F(React Three Fiber)를 이용한 3D 웹 개발 : 10. 3D 모델 / 애니메이션
+  - https://youtu.be/S7qWQ1li32o?si=KqMTvoF_RuqL9Kp4
+
+- 블렌더로 직접 만드는 영상 I animated this in 18 days... in Blender
+  - https://youtu.be/tCTkkHGRpNk?si=O8qUVhc5qq2_CVkx
+    - The Best Way To Create Nature In 3D (진짜 잔디 같다. ㅎ)
+      - https://youtu.be/7Um3FaXJixg?si=Bvt5wN-Ye2JaHu2U
+    - 도시 만드는 영상Creating The Last Of Us Environment In Blender 3.4
+      - https://youtu.be/OKmfqixt_l4?si=D0hS_NbyB4rzsnbh
+    - 진정한 리얼 ㅎRealistic Environment With Blender 3D
+      - https://youtu.be/v3NrfXaJW6c?si=wID5-qnvxXF4uvWN
+
+# Rust + Blender 로 게임 만드는 Demo영상
+- Making an FPS game with Bevy and Rust!
+  - https://youtu.be/06M2lT_I11c?si=ACv_8jUDmrWv2iXE
+
+<hr>
 
 # Blender최신 소식
 
