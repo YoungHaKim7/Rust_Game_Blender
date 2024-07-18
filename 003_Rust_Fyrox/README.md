@@ -73,3 +73,5 @@ https://github.com/YoungHaKim7/fyrox3dgame_rpg
 - 한글러스트Rust강의_046⭐️Rust_3d_RGP_game만들기3D_Game RG3D_Fyrox - a modern Rust Game engine2 #rustlang #fyrox
   - https://youtu.be/-GDO5ykuFoo?si=8De8yhjIY3ZcBwvd
 
+- 여기로 변경되었다고 함(240719)
+  - https://github.com/fyrox-book/fyrox-book.github.io/tree/main/src/code/tutorials
