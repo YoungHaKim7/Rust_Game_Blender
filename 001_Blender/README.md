@@ -24,6 +24,12 @@
 
 <hr>
 
+# Blender Market (Assets들 사고 파는곳인듯)
+
+- https://blendermarket.com/
+
+<hr>
+
 # Blender Cheat Sheets(9min31sec)[[🔝]](#link)
 - https://youtu.be/B0J27sf9N1Y?si=oLug9wsqjn7ilOfb
 
