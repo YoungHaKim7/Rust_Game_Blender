@@ -355,3 +355,7 @@ https://www.blender.org/
 - Character modeling for beginners - Blender | Joey Carlino
   - https://youtu.be/O6HQhs-gk50?si=eF18Tir-JpvNfsE0
 
+<hr>
+
+# Geometry Nodes (모아보기 굿 👍 )| Open Class[[🔝]](#link)
+- https://youtube.com/playlist?list=PLhVUZkOKttOw_19Qo63WYW7A8oZmec5BG&si=9fWvawb9CbyOy2nd
