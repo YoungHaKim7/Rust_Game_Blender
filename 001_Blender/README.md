@@ -20,6 +20,8 @@
   - [블랜더-기초-tutorial](#블랜더-기초-tutorial)
   - [blendercharacter-modeling-for-beginners](#blendercharacter-modeling-for-beginners)
 
+- [geometry-nodes-모아보기-굿---open-class](#geometry-nodes-모아보기-굿---open-class)
+
 <hr>
 
 # Blender Cheat Sheets(9min31sec)[[🔝]](#link)
