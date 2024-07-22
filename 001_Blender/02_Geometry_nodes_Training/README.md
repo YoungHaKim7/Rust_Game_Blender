@@ -4,3 +4,5 @@
 # Basic Blender Toon / Cel Shader Tutorial 2D Grease Pencil + 3D Modelling | TipTut
 - https://youtu.be/hBztmFHkNQo?si=0QI8B397KTdtjYaQ 
 
+# 3D Card - Geometry Nodes & Ray Portal Shader - Blender Tutorial (Template) | BROKEN STUDIO
+- https://youtu.be/SpDyxuztjwI?si=WG6zw5u6b0LhFoCh
