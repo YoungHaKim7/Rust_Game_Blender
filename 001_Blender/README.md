@@ -367,3 +367,12 @@ https://www.blender.org/
 
 # Geometry Nodes (모아보기 굿 👍 )| Open Class[[🔝]](#link)
 - https://youtube.com/playlist?list=PLhVUZkOKttOw_19Qo63WYW7A8oZmec5BG&si=9fWvawb9CbyOy2nd
+
+<br>
+
+<hr>
+
+# Blender Plugin 블렌더 플러그인[[🔝]](#link)
+
+# (블렌더 플러그인 굿)Maps in Blender 3.5 using the BlenderGIS Plugin | Radical Graphics[[🔝]](#link)
+https://youtu.be/PmHxBn7F9Fw?si=gKKoYxK-RmqVeiWI
