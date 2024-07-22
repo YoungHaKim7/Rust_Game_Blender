@@ -15,7 +15,7 @@
   - [compositor](#compositor)
 
 - [blender-plugin-블렌더-플러그인](#blender-plugin-블렌더-플러그인)
-  - [#플러그인maps-in-blender-35-using-the-blendergis-plugin--radical-graphics](#블렌더-플러그인-굿maps-in-blender-35-using-the-blendergis-plugin--radical-graphics)
+  - [플러그인maps-in-blender-35-using-the-blendergis-plugin--radical-graphics](#블렌더-플러그인-굿maps-in-blender-35-using-the-blendergis-plugin--radical-graphics)
 
 <hr>
 
