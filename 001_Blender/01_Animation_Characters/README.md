@@ -26,6 +26,12 @@
 - Rigging
   - https://youtube.com/shorts/B2SbP0WLlRc?si=InFxxsxWD4BC76fA
 
+- 괴물 만들기(Tutorial: My New Rigging Workflow in Blender | Polyfjord)
+  - https://youtu.be/BiPoPMnU2VI?si=ho_qKb7tDto-tpDy
+
+
+<hr>
+
 # How I Create Characters For Game Development! | Critical Giants
 
 - https://youtu.be/zStH0rzmRMA?si=56k8_VG7zFpXzSqL
