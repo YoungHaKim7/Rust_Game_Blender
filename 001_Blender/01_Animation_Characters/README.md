@@ -23,3 +23,6 @@
 # How I Create Characters For Game Development! | Critical Giants
 
 - https://youtu.be/zStH0rzmRMA?si=56k8_VG7zFpXzSqL
+
+# 옷, 무기 같은거 다 만드는 시리즈
+- https://youtube.com/playlist?list=PLBLrsmVrcZpRSANersBvy9Dsf2kuNx6AR&si=WiFtjWLNp8PuHvAs
