@@ -20,6 +20,9 @@
 
 # 케릭터 만든거 움직이게 만들기
 
+- Rigging
+  - https://youtube.com/shorts/B2SbP0WLlRc?si=InFxxsxWD4BC76fA
+
 # How I Create Characters For Game Development! | Critical Giants
 
 - https://youtu.be/zStH0rzmRMA?si=56k8_VG7zFpXzSqL
