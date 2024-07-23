@@ -26,3 +26,6 @@
 
 # 옷, 무기 같은거 다 만드는 시리즈
 - https://youtube.com/playlist?list=PLBLrsmVrcZpRSANersBvy9Dsf2kuNx6AR&si=WiFtjWLNp8PuHvAs
+
+- Modeling Frieren In Blender - Fanart Nidnum
+  - https://youtu.be/jxS474a1424?si=_Kv_Km74_xqqPTYG
