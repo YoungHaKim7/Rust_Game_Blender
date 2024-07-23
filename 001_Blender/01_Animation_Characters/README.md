@@ -15,3 +15,11 @@
   - https://www.youtube.com/@SouthernShotty
     - (모아보기) Blender 3D Tutorials | SouthernShotty
       - https://youtube.com/playlist?list=PL08jQWquPV8UMGiG0BB8nta3KUVMa6gWk&si=U5PzdhiTkkKmdC4o
+
+<hr>
+
+# 케릭터 만든거 움직이게 만들기
+
+# How I Create Characters For Game Development! | Critical Giants
+
+- https://youtu.be/zStH0rzmRMA?si=56k8_VG7zFpXzSqL
