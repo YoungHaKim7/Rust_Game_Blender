@@ -20,6 +20,9 @@
 
 # 케릭터 만든거 움직이게 만들기
 
+- EASY and QUICK Character Rigging in Blender - Blender Basics Tutorial | The Game Dev Cave
+  - https://youtu.be/vzJ7454X46g?si=5EtjM_X0f1Y3JzOV
+
 - Rigging
   - https://youtube.com/shorts/B2SbP0WLlRc?si=InFxxsxWD4BC76fA
 
