@@ -2,6 +2,9 @@
 - Intro to Rigging an Armature to a character in Blender 3.0 | TLD Studios
   - https://youtu.be/9dZjcFW3BRY?si=g-UhKlkivoLLc8Wr
 
+- CHARACTER RIGGING IN BLENDER | MK Graphics
+  - https://youtube.com/playlist?list=PL9TcNr_PxvUYKMfbXS40LOywX9LAekdq0&si=f--INk9t2364yyvi
+
 
 <hr>
 
