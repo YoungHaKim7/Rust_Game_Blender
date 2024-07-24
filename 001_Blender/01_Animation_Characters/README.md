@@ -52,3 +52,6 @@
 
 - Modeling Frieren In Blender - Fanart Nidnum
   - https://youtu.be/jxS474a1424?si=_Kv_Km74_xqqPTYG
+
+# Blender tutorial | TUNE MAN튠맨
+- https://youtube.com/playlist?list=PL0xVJJg5y39-tdlIiLCeVGmdmzOmB2Bbm&si=lsu5xnZpjjHXR0ke
