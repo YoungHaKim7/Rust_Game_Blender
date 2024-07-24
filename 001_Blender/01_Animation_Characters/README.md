@@ -1,4 +1,4 @@
-# 다 만들고 움직이게 만들기
+# 다 만들고 움직이게 만들기(Pose Mode)
 - Intro to Rigging an Armature to a character in Blender 3.0 | TLD Studios
   - https://youtu.be/9dZjcFW3BRY?si=g-UhKlkivoLLc8Wr
 
