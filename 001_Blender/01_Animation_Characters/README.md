@@ -26,6 +26,10 @@
 - Rigging
   - https://youtube.com/shorts/B2SbP0WLlRc?si=InFxxsxWD4BC76fA
 
+- 말하는거 말하기 얼굴로 연습 Easy Mouth Rig in Blender | Joey Carlino
+  - https://youtu.be/6nmT123wVe4?si=5K7JJM5JdJmshr_X
+
+
 - 괴물 만들기(Tutorial: My New Rigging Workflow in Blender | Polyfjord)
   - https://youtu.be/BiPoPMnU2VI?si=ho_qKb7tDto-tpDy
 
