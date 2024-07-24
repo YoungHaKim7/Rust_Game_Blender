@@ -5,6 +5,9 @@
 - CHARACTER RIGGING IN BLENDER | MK Graphics
   - https://youtube.com/playlist?list=PL9TcNr_PxvUYKMfbXS40LOywX9LAekdq0&si=f--INk9t2364yyvi
 
+- 상자 열리는 만들기(How to Add Armatures to Your Creations in Blender)
+  - https://youtu.be/j90XU7drf1M?si=n_P_Db5vVws9wohk
+
 
 <hr>
 
