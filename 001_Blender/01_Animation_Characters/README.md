@@ -9,6 +9,11 @@
   - https://youtu.be/j90XU7drf1M?si=n_P_Db5vVws9wohk
 
 
+# 반만 만들고 Mirror기능으로 대칭성 원리로 완성시키기
+- How to use Blender's Mirror Modifier | Blender Forge
+  - https://youtu.be/rjgyDB9T7Y8?si=bj8lWI3x95PV-Krd
+
+
 <hr>
 
 # (내가 좋아하는 징크스 만들어 보기 !)Blender 3.0 - Jinx modeling - Arcane | FlyCat
