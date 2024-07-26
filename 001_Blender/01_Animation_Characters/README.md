@@ -8,6 +8,9 @@
 - 상자 열리는 만들기(How to Add Armatures to Your Creations in Blender | Skillshare)
   - https://youtu.be/j90XU7drf1M?si=n_P_Db5vVws9wohk
 
+- (걷는 모션 만들기)How To Create Walk Cycles in Blender - The Fastest Method | Mark Masters
+  - https://youtu.be/e_COc0ZVHr0?si=R4J6TJMYw1fuOHI2
+
 
 # 반만 만들고 Mirror기능으로 대칭성 원리로 완성시키기
 - How to use Blender's Mirror Modifier | Blender Forge
