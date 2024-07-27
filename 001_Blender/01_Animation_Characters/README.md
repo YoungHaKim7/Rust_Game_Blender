@@ -4,6 +4,9 @@
 
 - Blender 4.0 NEW Rigging and Animation Features | CGDive (Blender Rigging Tuts)
   - https://youtu.be/Jtse_jUq7rk?si=eSh3VVIhUQqV8qO7
+    - Blender 4.0: What' s new in Rigify | CGDive (Blender Rigging Tuts)
+      - https://youtu.be/7D8HtiSrDCk?si=dbT8ECnWvdZcruxY
+
 
 
 - CHARACTER RIGGING IN BLENDER | MK Graphics
