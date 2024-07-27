@@ -2,12 +2,13 @@
 - Intro to Rigging an Armature to a character in Blender 3.0 | TLD Studios
   - https://youtu.be/9dZjcFW3BRY?si=g-UhKlkivoLLc8Wr
 
+- The Easiest Way To Rig Creatures In Blender (For Beginners) | richstubbsanimation
+  - https://youtu.be/rOcNY00Mv1I?si=axXYOx4f2SJPpbCg
+
 - Blender 4.0 NEW Rigging and Animation Features | CGDive (Blender Rigging Tuts)
   - https://youtu.be/Jtse_jUq7rk?si=eSh3VVIhUQqV8qO7
     - Blender 4.0: What' s new in Rigify | CGDive (Blender Rigging Tuts)
       - https://youtu.be/7D8HtiSrDCk?si=dbT8ECnWvdZcruxY
-
-
 
 - CHARACTER RIGGING IN BLENDER | MK Graphics
   - https://youtube.com/playlist?list=PL9TcNr_PxvUYKMfbXS40LOywX9LAekdq0&si=f--INk9t2364yyvi
