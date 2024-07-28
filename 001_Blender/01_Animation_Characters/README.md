@@ -1,3 +1,8 @@
+# 케릭터 만들기 완전 기초 네모부터 시작함
+- https://youtu.be/O6HQhs-gk50?si=ey8fkxFJyyHEr1QA
+
+<hr>
+
 # 다 만들고 움직이게 만들기(Pose Mode)
 
 - [Blender 4.0 RIGIFY] ＃4: Complex Human Rig (with Face!) | CGDive (Blender Rigging Tuts)
