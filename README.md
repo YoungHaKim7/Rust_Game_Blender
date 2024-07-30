@@ -57,6 +57,8 @@ https://www.epidemicsound.com/
 
 - https://www.dragonflydb.io/game-dev/engines/rust
 
+- https://arewegameyet.rs/
+
 <hr>
 
 <br>
