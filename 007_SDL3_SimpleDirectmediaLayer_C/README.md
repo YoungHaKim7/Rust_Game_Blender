@@ -1,3 +1,9 @@
+# 여기에 정리중.
+
+- https://github.com/YoungHaKim7/SDL3_Rust_Game_Training
+
+<hr />
+
 # C언어로 만듬Simple Directmedia Layer  
 
 - https://github.com/libsdl-org/SDL
