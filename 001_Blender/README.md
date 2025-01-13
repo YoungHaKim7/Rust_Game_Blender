@@ -22,6 +22,7 @@
 - [무료블렌더-blender-3d캐릭터-만들때-필요하다-](#무료블렌더-blender-3d캐릭터-만들때-필요하다-)
   - [블랜더-기초-tutorial](#블랜더-기초-tutorial)
     - [블렌더 강의 3 머그컵 모델링 + 뷰포트와 셀렉션 | DESIGN COSMOS](https://youtu.be/sgc6XzZV9jc?si=AeCNln8nMCA8D8V6)
+    - [메이저 게임 3D 캐릭터 모델러의 비법을 녹여낸 블렌더 3D 기초 클래스 | 따즈아](https://youtu.be/mVGeT-1lNg0?si=D8q1ZZzbaMygIpOA)
   - [blendercharacter-modeling-for-beginners](#blendercharacter-modeling-for-beginners)
 
 - [geometry-nodes-모아보기-굿---open-class](#geometry-nodes-모아보기-굿---open-class)
