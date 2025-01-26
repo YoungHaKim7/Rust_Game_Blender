@@ -1,10 +1,16 @@
 <p align="center">
-  <img width=250px src="https://godotengine.org/assets/logo_dark.svg" hspace="3"/>godot-rust
+  <img width=100px src="https://godotengine.org/assets/logo_dark.svg" hspace="3"/>godot-rust
+- ![#3d5d91](https://godotengine.org/assets/logo_dark.svg) `#3d5d91` 
 </p>
 
-- ![#3d5d91](https://godotengine.org/assets/logo_dark.svg) `#3d5d91` 
+
 
 <hr>
+
+# (C++로 만듬)Godot Engine – Multi-platform 2D and 3D game engine 
+- https://github.com/godotengine/godot
+
+<hr />
 
 # Godot
 
