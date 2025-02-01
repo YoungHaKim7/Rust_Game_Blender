@@ -35,6 +35,12 @@
 
 <hr>
 
+# (250201)Blender 4.4 Alpha ranked gameplay EU low ping grandmaster high MMR | Polyfjord[|🔝|](#link)
+- https://www.youtube.com/live/cQJMbnJOsD8?si=Ql9Rt9_oCv9fzEk1
+
+<hr />
+
+
 # Blender Cheat Sheets(9min31sec)[[🔝]](#link)
 - https://youtu.be/B0J27sf9N1Y?si=oLug9wsqjn7ilOfb
 
