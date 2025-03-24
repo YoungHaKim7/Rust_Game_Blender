@@ -29,6 +29,9 @@
 
 <hr>
 
+# Blender 업데이트 뉴스 모음
+- [250324 Blender4.4업데이트 정리)거절하기 힘든 블렌더 업그레이드 타이밍 | 런타임](https://youtu.be/vYbo8tgLXQM?si=SA8X7KYhsOLHb63r)
+
 # Blender Market (Assets들 사고 파는곳인듯)
 
 - https://blendermarket.com/
