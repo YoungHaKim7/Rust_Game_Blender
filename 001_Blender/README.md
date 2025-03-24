@@ -1,4 +1,5 @@
 # link
+- [블렌더 최신 릴리즈 버젼 업데이트 소식Blender news](#blender-업데이트-뉴스-모음)
 - [Blender Cheat Sheets](#blender-cheat-sheets9min31sec)
   - [generalmost-window-types](#generalmost-window-types)
   - [navigation3d-viewport](#navigation3d-viewport)
@@ -29,13 +30,15 @@
 
 <hr>
 
-# Blender 업데이트 뉴스 모음
+# Blender 업데이트 뉴스 모음[|🔝|](#link)
 - [250324 Blender4.4업데이트 정리)거절하기 힘든 블렌더 업그레이드 타이밍 | 런타임](https://youtu.be/vYbo8tgLXQM?si=SA8X7KYhsOLHb63r)
 - [241120 Blender4.3업데이트 정리)블렌더 선수의 증명 | 런타임](https://youtu.be/eXmapz-mawE?si=YIsl02kGUlGz1z7X)
   - [4.3 신기능 정리_각잡은 블렌더 4.3의 신기능 | 런타임](https://youtu.be/GhV-8OCLAsA?si=GpqceyWiXWYma2X1)
+- [240327 Blender4.1업데이트 정리 따끈한 블렌더가 왔어요! | 런타임](https://youtu.be/CZtxRtkXgHI?si=E0-ssFutNgxnoaxr)
+  - [블렌더 4.1 신기능 평가 | 런타임](https://youtu.be/jD8l9ve2sWA?si=S1JfgHF5f3z5Lm7U)
 
 
-# Blender Market (Assets들 사고 파는곳인듯)
+# Blender Market (Assets들 사고 파는곳인듯)[|🔝|](#link)
 
 - https://blendermarket.com/
 
@@ -47,14 +50,14 @@
 <hr />
 
 
-# Blender Cheat Sheets(9min31sec)[[🔝]](#link)
+# Blender Cheat Sheets(9min31sec)[|🔝|](#link)
 - https://youtu.be/B0J27sf9N1Y?si=oLug9wsqjn7ilOfb
 
 - `LMB` means click or press the Left-mouse button.
 - `RMB` means click or press the Right-mouse button.
    - https://learn.foundry.com/katana/3.0/Content/ug/appendix_hotkeys/hotkeys.html
     
-# General(most window types)[[🔝]](#link)
+# General(most window types)[|🔝|](#link)
 
 |||
 |-|-|
