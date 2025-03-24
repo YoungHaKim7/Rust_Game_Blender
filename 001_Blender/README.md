@@ -32,6 +32,8 @@
 # Blender 업데이트 뉴스 모음
 - [250324 Blender4.4업데이트 정리)거절하기 힘든 블렌더 업그레이드 타이밍 | 런타임](https://youtu.be/vYbo8tgLXQM?si=SA8X7KYhsOLHb63r)
 - [241120 Blender4.3업데이트 정리)블렌더 선수의 증명 | 런타임](https://youtu.be/eXmapz-mawE?si=YIsl02kGUlGz1z7X)
+  - [4.3 신기능 정리_각잡은 블렌더 4.3의 신기능 | 런타임](https://youtu.be/GhV-8OCLAsA?si=GpqceyWiXWYma2X1)
+
 
 # Blender Market (Assets들 사고 파는곳인듯)
 
