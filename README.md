@@ -56,6 +56,9 @@ Rust Game Dev.(Rust, Rust_Bevy, Rust_Fyrox, Blender)
 
 - 게임 개발 번역서 질문&논의 :≪GPG 카탈로그≫, 기존 GgpgStudy 포럼: ≪GpgStudy 포럼≫.
   - https://gpgstudy.com/
+- 번역가 류광의 홈페이지 '류광의 번역 이야기'
+  - https://occamsrazr.net/
+
 
 <hr />
 
