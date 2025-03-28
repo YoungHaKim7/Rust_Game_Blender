@@ -59,6 +59,8 @@ Rust Game Dev.(Rust, Rust_Bevy, Rust_Fyrox, Blender)
 - 번역가 류광의 홈페이지 '류광의 번역 이야기'
   - https://occamsrazr.net/
 
+# 옥찬호님 game dev 로드맵
+- https://github.com/utilForever/game-developer-roadmap
 
 <hr />
 
