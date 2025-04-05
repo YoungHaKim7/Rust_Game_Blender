@@ -24,6 +24,12 @@ Rust Game Dev.(Rust, Rust_Bevy, Rust_Fyrox, Blender)
 
 <hr>
 
+- raytracing
+  - audio
+    - [A First Look At Raytraced Audio | Vercidium](https://youtu.be/u6EuAUjq92k?si=szrxLVxNQFpuddC3)
+
+<hr />
+
 - [게임엔진-비교-굿](#게임엔진-비교-굿)
 - [royalty-free-video-games-music](#royalty-free-video-games-music)
 
