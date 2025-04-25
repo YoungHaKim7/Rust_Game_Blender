@@ -32,3 +32,12 @@ https://youtu.be/3mfvZ-mdtZQ?si=oyC5JJNV70RJOcRE
 
 # 8비트 컴퓨터에서 게임 만들기 | 조연2 게임 작업실
 https://youtu.be/Z8yeXVqiKg8?si=gyg1S4C-0MATWmdQ
+
+<hr />
+
+# Ray Tracing 상식
+
+[(250406)2 - Lumen DOES NOT Use Ray Tracing the Way You Think it Does | MARKitekta](https://youtu.be/XIxKo8k81XY?si=8_g0VrJ46J5c1E7i)
+
+![Image](https://github.com/user-attachments/assets/7c1753cc-5fe9-45c4-8ade-e8507905ca90)
+![Image](https://github.com/user-attachments/assets/6d5bff77-0b9a-472b-92da-8589ab871197)
