@@ -58,6 +58,16 @@ Rust Game Dev.(Rust, Rust_Bevy, Rust_Fyrox, Blender)
 
 <hr>
 
+# 여기 죽어라 파야함!!Shadertoys ported to Rust GPU
+- April 10, 2025
+  - https://rust-gpu.github.io/blog/2025/04/10/shadertoys/
+
+- 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
+  - https://github.com/rust-gpu/rust-gpu
+
+<hr />
+
+
 # 류광님 짱 👍이곳은 IT 개발 전반과 게임 개발에 관한 소식과 정보를 공유하는 GpgStudy.com입니다.
 
 - 게임 개발 번역서 질문&논의 :≪GPG 카탈로그≫, 기존 GgpgStudy 포럼: ≪GpgStudy 포럼≫.
