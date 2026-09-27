@@ -14,6 +14,8 @@ https://fyrox.rs/
 
 - eBook
   - https://fyrox-book.github.io/
+    - Tutorial eBooks
+      - https://fyrox-book.github.io/tutorials/tutorials.html
 
 # rust_fyrox_project만들기 & init & fyrox 파일 구조
 
